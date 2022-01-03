@@ -23,3 +23,11 @@ section{
     width: 100%;
 
 }
+.cv{
+    background-image: linear-gradient(orange, tomato );
+    text-decoration: none;
+    font-weight: 950;
+    padding: 10px 40px;
+    color: white;
+    border-radius: 5px;
+}
