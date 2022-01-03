@@ -1,0 +1,25 @@
+body{
+    font-family: 'Licorice', cursive;
+font-family: 'Poppins', sans-serif;
+}
+.author-name{
+    color: orange;
+}
+.career-obj{
+
+    font-weight: 700;
+    padding-right: 20%;
+
+}
+section{
+    display: flex;
+}
+.profile-image{
+    width: 50%;
+    
+}
+
+.profile-image img{
+    width: 100%;
+
+}
